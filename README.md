@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi there 👋 , I'm Medhat!
+   I'm a Front-End Developer
 
-<!--
-**medhat1919/medhat1919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Front-End Developer with a strong interest in building modern and responsive web applications.
+ I love working with React.js and I am currently focusing on building projects with REACT.js and TAILWIND CSS.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Skills & Tech Stack
+
+- **Frontend:** React, Next.js, HTML, CSS, JavaScript, TypeScript
+- **Styling:** Tailwind CSS, Bootstrap
+- **Backend/Database:**  Supabase, Firebase
+- **Tools:** Git, GitHub, VS Code
