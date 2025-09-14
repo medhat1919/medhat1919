@@ -8,7 +8,7 @@ I'm a passionate Front-End Developer with a strong interest in building modern a
 
 ### 🛠️ My Skills & Tech Stack
 
-- **Frontend:** React, Next.js, HTML, CSS, JavaScript, TypeScript
-- **Styling:** Tailwind CSS, Bootstrap
-- **Backend/Database:**  Supabase, Firebase
+- **Frontend:** React, HTML, CSS, JavaScript 
+- **Styling:** Tailwind CSS
+- **Backend/Database:**  Supabase
 - **Tools:** Git, GitHub, VS Code
